@@ -16,12 +16,12 @@ div {
 
 #map {
 	position: relative;
-	vheight: calc(100vh - 40px);
+	height: calc(100vh - 40px);
 	width: 100%;
 }
 
 .overall {
-	height: 100%;
+	height: calc(100vh - 40px);
 }
 
 .search {
