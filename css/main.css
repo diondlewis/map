@@ -21,7 +21,7 @@ div {
 }
 
 .overall {
-	height: 100%;
+	height: calc(100vh - 40px);
 }
 
 .search {
