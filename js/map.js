@@ -12,7 +12,7 @@ function app() {
 	// Siteseeing Locations
 	var addresses = {
 		"Navy Pier" : "600 E Grand Ave, Chicago, IL 60611",
-		"Adler Planeterium" : "Museum Campus, 1300 S Lake Shore Dr, Chicago, IL 60605",
+		"Adler Planetarium" : "Museum Campus, 1300 S Lake Shore Dr, Chicago, IL 60605",
 		"The Field Museum" : "1400 S Lake Shore Dr, Chicago, IL 60605",
 		"The Art Institute of Chicago" : "111 S Michigan Ave, Chicago, IL 60603",
 		"Shedd Aquarium" : "1200 S Lake Shore Dr, Chicago, IL 60605",
