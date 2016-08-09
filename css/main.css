@@ -16,7 +16,7 @@ div {
 
 #map {
 	position: relative;
-	height: calc(100vh - 40px);
+	height: 100%;
 	width: 100%;
 }
 
