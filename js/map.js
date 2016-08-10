@@ -283,3 +283,8 @@ function app() {
 	viewModel.init();
 	fourSquareAPI.init();
 }
+
+// Provide error handling for user if Google API fails to load
+function googleError() {
+    alert("Google API failed to load resource.");
+}
