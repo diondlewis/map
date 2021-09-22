@@ -17,7 +17,7 @@
 	</div>
 	<div class="overall container" data-bind="with: locationsView">
 		<ul class="col-3 mobile menu">
-			<li class="col-12 place">Chicago Siteseeing Locations<input type="image" id="hamburger-icon" data-bind="click: hideMenu" src="images/menu.png"></li>
+			<li class="col-12 place">Chicago Siteseeing Locations<input type="image" id="hamburger-icon" data-bind="click: hideMenu" src="images/menu.png" alt="hamburger icon"></li>
 			<!-- ko foreach: places -->
 				<li class="col-12 place item slide" data-bind="text: name, click: $parent.click, style: {backgroundColor: clicked() > 0 ? 'rgba(232, 232, 232, 0.8)' : ''}, visible: $root.compareSearch($index())"></li>
 			<!-- /ko -->
